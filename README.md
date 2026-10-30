@@ -39,7 +39,7 @@
 <img width="500" height="203" alt="изображение" src="https://github.com/user-attachments/assets/a507532d-1f44-41c6-b0ad-93d6248a91d7" />
 ### 2 задание
 <img width="584" height="155" alt="изображение" src="https://github.com/user-attachments/assets/860db143-2035-4c49-b556-a09760b8c9d8" />
-### 3 задание
+#### 3 задание
 <img width="529" height="131" alt="изображение" src="https://github.com/user-attachments/assets/38094cc2-b93c-4ab3-ba66-8c899d58ec1d" />
 
 
@@ -135,8 +135,6 @@
 ### Тестирование
 <img width="469" height="100" alt="изображение" src="https://github.com/user-attachments/assets/33fac109-2abd-4e4f-a7ca-6056f861de58" />
 
-
-*Фрагмент созданного XML-файла*
 
 # Задание 6
 
